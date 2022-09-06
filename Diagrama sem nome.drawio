@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T01:23:05.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.8" etag="HdWSkRjmjDjH-GcMGby5" type="github"><diagram id="0GilZvuR8K1NqXZYQIw9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T02:08:36.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Lof0t7rkYS_Wspb9MMP8" version="20.2.8" type="github">
+  <diagram id="0GilZvuR8K1NqXZYQIw9" name="Page-1">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;CLIENTES:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Nome&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;CPF&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;data de nascimento&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;endereço residencial&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;telefone de contato&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="195" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;AGÊNCIAS:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Código da agência&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Nome&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Endereço&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data de criação&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PQVVMXy_Z7LRWe_OsTwH-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;CONTAS:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Código da conta,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;agência detentora da conta,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;dono da conta,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;saldo,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;tipo da conta&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="220" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
